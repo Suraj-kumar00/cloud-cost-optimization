@@ -23,8 +23,8 @@ However, cost savings in the cloud are only effective if resources are managed e
 
 ---
 
-### [AWS Cost Optimization](./AWS_Cost_Optimization/README.md)
+### [AWS Cost Optimization](./AWS_Cost_Optimization)
 
-### [Azure Cost Optimization](./Azure_Cost_Optimization/README.md)
+### [Azure Cost Optimization](./Azure_Cost_Optimization)
 
-### [GCP Cost Optimiztaion](./GCP_Cost_Optimization/README.md)
+### [GCP Cost Optimiztaion](./GCP_Cost_Optimization)
