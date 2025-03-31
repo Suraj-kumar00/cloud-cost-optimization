@@ -1,4 +1,4 @@
-# Her is the Step by step guide to do hands-on as per the architecture diagram and the python scirpt we have for Lambda function.
+# Here is the Step by step guide to do hands-on as per the architecture diagram and the python scirpt we have for Lambda function.
 
 ---
 
